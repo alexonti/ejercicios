@@ -16,6 +16,8 @@ public class guias5 {
 		double potencia= a*a;
 		double raiz= Math.sqrt(a);
 		System.out.println();
+		
+		entrada.close();
 
 	
 		if(a<=0){
